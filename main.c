@@ -5,6 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	printf("Hello, Sookmyung Electronics!\n");
-	
+	mybabywonwoo
+	printf("%")
 	return 0;
 }
